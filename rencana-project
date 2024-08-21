@@ -1,12 +1,13 @@
 RENCANA PROJECT
 - Web BANK APP
   - Buat Homepage
-    - Logo Situs
+    - Logo
     - Navigasi situs
-    - Footer
+    - Sidebar
   - Fitur Login
   - Fitur Signup
     - Dashboard
-    - UI Boostraps
+    - UI Tailwind
 - WEB TICKETING APP
 - WEB HOSPITAL APP
+- WEB CONSTRUKSI
